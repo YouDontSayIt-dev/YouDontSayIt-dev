@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m Mathew James Muyco. Currently taking my bachelor's degree in Computer Science. <br>👀 I’m interested in becoming a full-stack developer.<br>🌱 I’m currently learning C#.<br>💞️ I’m looking to collaborate on simple/beginner projects that can sharpen my skills.<br>
+👋 Hi, I’m Mathew James Muyco. <br>👀 I’m interested in becoming a full-stack developer.<br>🌱 I’m currently learning C#.<br>💞️ I’m looking to collaborate on simple/beginner projects that can sharpen my skills.<br>
 
 
 ## 🌐 Socials:
