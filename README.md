@@ -18,7 +18,7 @@ Committed to continuous improvement and tackling new challenges to contribute to
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjpmuyco/) 
 
-# 💻 Tech Stack:
+# 💻 Current Professional Tech Stack:
 <div align="left">
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".net core logo" />
