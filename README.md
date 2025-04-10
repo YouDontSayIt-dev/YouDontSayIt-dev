@@ -1,22 +1,37 @@
 
 # 💫 About Me:
-👋 Hi, I'm Mathew James Muyco.<br>👀 I'm a full-stack developer with a passion for creating efficient, user-friendly applications.<br>🌱 Currently deepening my expertise in C# and exploring new tools in full-stack development.<br>💞️ I'm open to collaborating on projects that push creativity and strengthen my development skills.<br>
+Hi, I'm Mathew James Muyco, a passionate Full-Stack Developer committed to building efficient, user-friendly applications.
 
+🌱 Currently deepening my expertise in C# and exploring new tools in full-stack development.
+
+💡 Always open to collaborating on projects that challenge creativity and strengthen my skills.
+
+# 🚀 A Brief Overview:
+I am an Innovative Software Developer with a strong foundation in software engineering principles. I thrive in fast-paced, collaborative environments and am always eager to learn and grow. Here’s a glimpse of my professional background:
+
+Proficient in a wide range of programming languages and frameworks.
+
+Experienced in leading complex projects from design to deployment, optimizing performance, and collaborating with cross-functional teams.
+
+Committed to continuous improvement and tackling new challenges to contribute to meaningful, innovative software initiatives.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/JamesonSlime) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjpmuyco/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjpmuyco/) 
 
 # 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".net core logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure logo" />
 </div>
 
 ###
